@@ -3,6 +3,8 @@
 A client-side Instagram/WhatsApp-style story feature built with HTML, CSS and vanilla JavaScript.
 
 **Live demo:** https://yadukrishnach.github.io/story-feature/
+**Project URL: ** https://github.com/YadukrishnaCH/story-feature
+
 
 ## Features
 - Plus button to upload an image
