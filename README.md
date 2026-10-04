@@ -4,7 +4,7 @@ A client-side Instagram/WhatsApp-style story feature built with HTML, CSS and va
 
 **Live demo:** https://yadukrishnach.github.io/story-feature/
 
-**Project URL:** https://github.com/YadukrishnaCH/story-feature
+**Project URL:** https://roadmap.sh/projects/stories-feature
 
 
 ## Features
